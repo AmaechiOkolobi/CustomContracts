@@ -7,6 +7,7 @@
  - Auctions
  - NFT Marketplace
  - ERC721 Use Cases (NFT, Airdrops, NFT Collections, Factory, Pre-mint / Whitelist)
+ - Solana SPL Tokens (NFT Mint, Escrow PDA)
 
 ## Technology Stack & Tools
   Solidity (Writing Smart Contract)
